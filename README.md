@@ -14,7 +14,7 @@ The project covers the complete Machine Learning process, including dataset load
 | Roll Number | AD3307 |
 | Division | C |
 | Branch | B.Tech – Artificial Intelligence and Data Science |
-| Subject | Machine Learning |
+| Subject | RCA |
 | Activity | Activity 2 |
 
 ## 🎯 Objectives
